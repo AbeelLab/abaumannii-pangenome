@@ -23,4 +23,4 @@ The scripts are essentially wrap-arounds to run our comparative study, the indiv
 5. [Panaroo (v1.1.2)](https://github.com/gtonkinhill/panaroo)
 6. [GOATOOLS (v0.9.9)](https://github.com/tanghaibao/goatools)
 
-'createSA.py' and 'runGOE.py' were both written in python (3.7), and the 'comparativeStudy.sh' is a bash script that includes the commands we ran to perform our comparative study.
+``createSA.py`` and ``runGOE.py`` were both written in python (3.7), and the 'comparativeStudy.sh' is a bash script that includes the commands we ran to perform our comparative study.
